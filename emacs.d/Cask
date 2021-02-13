@@ -1,0 +1,7 @@
+(source gnu)
+(source melpa)
+(depends-on "org-roam")
+;;(depends-on "org-roam-dailies")
+(depends-on "emacsql")
+(depends-on "emacsql-sqlite3")
+
